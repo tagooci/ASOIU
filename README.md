@@ -31,7 +31,7 @@
 
 | № | Тема | Ссылка |
 |---|------|--------|
-| 1 | homework 1 | [Открыть](Homework-1.git](https://github.com/tagooci/HW1_LEV) |
+| 1 | homework 1 | [Открыть](https://github.com/tagooci/HW1_LEV) |
 
 https://github.com/tagooci/ASOIU
 

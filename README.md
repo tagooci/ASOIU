@@ -33,4 +33,4 @@
 |---|------|--------|
 | 1 | homework 1 | [Открыть]([Homework-1.git](https://github.com/tagooci/HW1_LEV)) |
 
-https://github.com/gregkorneev-BMSTU/ASOIU
+[https://github.com/gregkorneev-BMSTU/ASOIU](https://github.com/tagooci/ASOIU)

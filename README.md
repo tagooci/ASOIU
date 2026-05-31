@@ -9,7 +9,12 @@
 | № | Тема | Ссылка |
 |---|------|--------|
 | 1 | Семинар 1 | [Открыть]() |
-| 2 | Семинар 2 | [Открыть]() |
+| 2 | Семинар 2 | [Открыть](https://github.com/tagooci/sem2_ASOIU) |
+| 3 | Семинар 3 | [Открыть](https://github.com/tagooci/sem3_ASOIU) |
+| 4 | Семинар 4 | [Открыть](https://github.com/tagooci/sem4_ASOIU) |
+| 5 | Семинар 5 | [Открыть](https://github.com/tagooci/sem5_ASOIU) |
+| 6 | Семинар 6 | [Открыть](https://github.com/tagooci/sem6_ASOIU) |
+| 7 | Семинар 7 | [Открыть](https://github.com/tagooci/sem7_ASOIU) |
 
 </td>
 
